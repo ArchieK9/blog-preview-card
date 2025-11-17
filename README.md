@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository URL](https://github.com/ArchieK9/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://blog-preview-card-eosin-nu.vercel.app/)
 
 ## My process
 
